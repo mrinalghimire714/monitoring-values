@@ -1,6 +1,6 @@
 grafana:
   adminUser: admin
-  adminPassword: "skillshikshya"
+  adminPassword: "admin123"
 
   persistence:
     enabled: false
